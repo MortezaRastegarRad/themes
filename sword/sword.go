@@ -8,6 +8,7 @@ import (
 	"github.com/MortezaRastegarRad/go-admin/template/types"
 	"github.com/MortezaRastegarRad/themes/common"
 	"github.com/MortezaRastegarRad/themes/sword/resource"
+	"github.com/gobuffalo/packr/v2"
 )
 
 type Theme struct {
